@@ -6,3 +6,5 @@ print('Hello from Github')
 
 print('Another hello from github')
 
+print('hello from local PC')
+
